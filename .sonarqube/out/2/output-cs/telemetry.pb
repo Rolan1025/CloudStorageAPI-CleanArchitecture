@@ -1,1 +1,0 @@
-€RjC:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Infrastructure\Infrastructure.csproj¢net9.0òCSharp13

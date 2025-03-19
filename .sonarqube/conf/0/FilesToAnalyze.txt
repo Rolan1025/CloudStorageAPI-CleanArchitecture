@@ -1,4 +1,0 @@
-﻿C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Domain\Common\BaseEntity.cs
-C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Domain\Common\BaseEvent.cs
-C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Domain\Entities\LogsConversacion.cs
-C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Domain\GlobalUsings.cs

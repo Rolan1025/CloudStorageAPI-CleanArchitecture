@@ -1,6 +1,0 @@
-projectKey=infobitservicebackend
-serverUrl=http://localhost:9000
-serverVersion=25.3.0.104237
-dashboardUrl=http://localhost:9000/dashboard?id=infobitservicebackend
-ceTaskId=3f4a774c-5164-4702-b1ba-5a14437792c9
-ceTaskUrl=http://localhost:9000/api/ce/task?id=3f4a774c-5164-4702-b1ba-5a14437792c9

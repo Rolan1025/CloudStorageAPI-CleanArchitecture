@@ -1,1 +1,0 @@
-pRZC:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Domain\Domain.csproj¢net9.0òCSharp13

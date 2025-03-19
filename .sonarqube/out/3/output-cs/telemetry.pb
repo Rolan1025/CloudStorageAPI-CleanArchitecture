@@ -1,1 +1,0 @@
-êRzC:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\tests\Application.UnitTests\Application.UnitTests.csproj¢net9.0ÚCSharp13
