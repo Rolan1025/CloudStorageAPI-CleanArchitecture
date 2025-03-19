@@ -1,0 +1,9 @@
+¬
+ C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\tests\Application.FunctionalTests\obj\Debug\net9.0\Application.FunctionalTests.AssemblyInfo.csutf-8¯
+£C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\tests\Application.FunctionalTests\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.csutf-8®
+¢C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\tests\Application.FunctionalTests\obj\Debug\net9.0\Application.FunctionalTests.GlobalUsings.g.csutf-8~
+sC:\Users\armad\.nuget\packages\microsoft.net.test.sdk\17.13.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.csutf-8w
+nC:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\tests\Application.FunctionalTests\Testing.csutf-8´
+ªC:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\tests\Application.FunctionalTests\LogsConversaciones\Queries\GetLogsConversacionesQueryValidatorTests.csutf-8«
+¡C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\tests\Application.FunctionalTests\LogsConversaciones\Queries\GetLogsConversacionesQueryTests.csutf-8Œ
+‚C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\tests\Application.FunctionalTests\CustomWebApplicationFactory.csutf-8

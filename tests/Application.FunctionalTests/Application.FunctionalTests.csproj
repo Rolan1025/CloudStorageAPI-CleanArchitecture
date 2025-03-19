@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <RootNamespace>CloudStorageAPICleanArchitecture.FunctionalTests</RootNamespace>
+        <AssemblyName>CloudStorageAPICleanArchitecture.Application.FunctionalTests</AssemblyName>
+    </PropertyGroup>
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" />
+      <PackageReference Include="Microsoft.Data.SqlClient" />
+      <PackageReference Include="Microsoft.NET.Test.Sdk" />
+      <PackageReference Include="nunit" />
+      <PackageReference Include="NUnit.Analyzers">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="NUnit3TestAdapter" />
+      <PackageReference Include="coverlet.collector">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="FluentAssertions" />
+      <PackageReference Include="Moq" />
+      <PackageReference Include="Respawn" />
+      <PackageReference Include="System.Configuration.ConfigurationManager" />
+      <PackageReference Include="Testcontainers.MsSql" />
+    </ItemGroup>
+    
+    <ItemGroup>
+        <ProjectReference Include="..\..\src\Web\Web.csproj" />
+    </ItemGroup>
+    
+    <ItemGroup>
+      <Folder Include="TestResults\" />
+    </ItemGroup>
+
+</Project>

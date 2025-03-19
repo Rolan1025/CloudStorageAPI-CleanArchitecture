@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>CloudStorageAPICleanArchitecture.Domain</RootNamespace>
+    <AssemblyName>CloudStorageAPICleanArchitecture.Domain</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Data.Tables" />
+    <PackageReference Include="MediatR" />
+  </ItemGroup>
+
+</Project>

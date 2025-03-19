@@ -1,0 +1,4 @@
+﻿C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Infrastructure\DependencyInjection.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Infrastructure\GlobalUsings.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Infrastructure\Identity\IdentityService.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Infrastructure\Services\TableStorageService.cs

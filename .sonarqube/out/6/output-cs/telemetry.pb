@@ -1,0 +1,1 @@
+ùRÜC:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\tests\Application.FunctionalTests\Application.FunctionalTests.csproj¢net9.0ÚCSharp13

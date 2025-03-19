@@ -1,0 +1,29 @@
+﻿C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\DependencyInjection.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Endpoints\AuthController.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Endpoints\TableStorageController.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\GlobalUsings.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Infrastructure\CustomExceptionHandler.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Middleware\ExceptionHandlingExtensions.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Middleware\ExceptionHandlingMiddleware.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Models\ErrorResponse.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Program.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Services\CurrentTokenInfo.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Swagger\GlobalErrorResponseOperationFilter.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\obj\Debug\net9.0\Web.GlobalUsings.g.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\obj\Debug\net9.0\.NETCoreApp,Version=v9.0.AssemblyAttributes.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\obj\Debug\net9.0\Web.AssemblyInfo.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\obj\Debug\net9.0\ChatBotAPI.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\wwwroot\api\specification.json
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\wwwroot\favicon.ico
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\appsettings.Development.json
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\appsettings.json
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\config.nswag
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\logs\chatbotapi-20250305.txt
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\logs\chatbotapi-20250317.txt
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Web.http
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Properties\launchSettings.json
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Properties\serviceDependencies.ChatBotWebService - Web Deploy.json
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Properties\serviceDependencies.json
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Properties\ServiceDependencies\ChatBotWebService - Web Deploy\apis1.arm.json
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Properties\ServiceDependencies\ChatBotWebService - Web Deploy\profile.arm.json
+C:\Users\armad\Documentos\Estudio\Proyectos\infobitservicebackend\src\Web\Properties\PublishProfiles\ChatBotWebService - Web Deploy.pubxml
